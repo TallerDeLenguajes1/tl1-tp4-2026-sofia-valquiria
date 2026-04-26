@@ -1,4 +1,4 @@
-# TP1 - Sofía Valquiria (Taller de Lenguajes 1)
+# TP4 - Sofía Valquiria | Listas Enlazadas (Taller de Lenguajes 1)
 
 ## Cursado 2026 - Universidad Nacional de Tucumán - Dictado por:
 * *Profesor de Teoría:* _Javier G._
